@@ -1,0 +1,5 @@
+cd https://github.com/jdboutte/MTE280
+cp "C:\Users\jasmi\Downloads\ASU TEACHING\ELEMENTARYMINDMAP.mm.html" 
+git ELEMENTARYMINDMAP.mm.html
+git commit -m "Add exported mind map HTML"
+git push origin main
